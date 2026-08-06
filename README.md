@@ -2,7 +2,8 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Larissa Vitória de Oliveira Maciel, tenho 19 anos. Concluí o ensino médio na E.E Otávio Ferrari, com o curso técnico em Administração e também fiz o técnico de Desenvolvimento de Sistemas na ETEC Dr. Demétrio Azevedo Júnior. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. Sou apaixonada por tecnologia e aprender coisas novas.
+Me chamo Larissa Vitória de Oliveira Maciel, tenho 19 anos. Concluí o ensino médio na E.E Otávio Ferrari e fiz o técnico de Desenvolvimento de Sistemas na ETEC Dr. Demétrio Azevedo Júnior. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. Sou apaixonada por tecnologia e aprender coisas novas.
 
 ---
 
